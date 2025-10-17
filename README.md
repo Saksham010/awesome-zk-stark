@@ -4,5 +4,5 @@
 <a href="https://www.youtube.com/watch?v=CWbx_rnj7LI">FRI and Proximity Proof II (Dan Boneh)</a>
 
 # Blogs
-<a href="https://aszepieniec.github.io/stark-anatomy">Stark-Anatomy</a>
+<a href="https://aszepieniec.github.io/stark-anatomy">Stark-Anatomy</a><br>
 <a href="https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71">Stark Math (Starkware)</a>
