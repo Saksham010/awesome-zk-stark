@@ -6,3 +6,5 @@
 # Blogs
 <a href="https://aszepieniec.github.io/stark-anatomy">Stark-Anatomy</a><br>
 <a href="https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71">Stark Math (Starkware)</a>
+<a href="https://cronokirby.com/Posts/Notes-on-STARK-Arithmetization">Notes on STARK Arithmetization</a>
+
