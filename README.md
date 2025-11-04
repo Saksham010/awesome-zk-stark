@@ -7,4 +7,7 @@
 <a href="https://aszepieniec.github.io/stark-anatomy">Stark-Anatomy</a><br>
 <a href="https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71">Stark Math (Starkware)</a><br>
 <a href="https://cronokirby.com/Posts/Notes-on-STARK-Arithmetization">Notes on STARK Arithmetization</a> <br>
-<a href="https://threesigma.xyz/blog/zk/arithmetization-starks-algebraic-intermediate-representation">Arithmetization on STARKs (AIR) - I (Three Sigma)</a>
+<a href="https://threesigma.xyz/blog/zk/arithmetization-starks-algebraic-intermediate-representation">Arithmetization on STARKs (AIR) - I (Three Sigma)</a><br>
+<a href="https://threesigma.xyz/blog/zk/preprocessed-air-arithmetization-starks">Arithmetization on STARKs (PAIR) - II (Three Sigma)</a><br>
+<a href="https://threesigma.xyz/blog/zk/degree-bounds-and-computational-complexity">Arithmetization on STARKs - III (Three Sigma)</a><br>
+<a href="https://hackmd.io/@aztec-network/plonk-arithmetiization-air">AIR to RAP (Aztec)</a><br>
