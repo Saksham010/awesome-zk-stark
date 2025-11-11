@@ -11,6 +11,7 @@
 <a href="https://threesigma.xyz/blog/zk/preprocessed-air-arithmetization-starks">Arithmetization on STARKs (PAIR) - II (Three Sigma)</a><br>
 <a href="https://threesigma.xyz/blog/zk/degree-bounds-and-computational-complexity">Arithmetization on STARKs - III (Three Sigma)</a><br>
 <a href="https://hackmd.io/@aztec-network/plonk-arithmetiization-air">AIR to RAP (Aztec)</a><br>
+<a href="https://hackmd.io/@Voidkai/BkNX3xUZA">Efficient Prime Fields for Zero-knowledge proof</a><br>
 
 # Papers
 <a href="https://eprint.iacr.org/2023/661">Study of Arithmetization Methods for STARKs</a><br>
